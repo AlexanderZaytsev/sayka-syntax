@@ -1,0 +1,15 @@
+{
+  "name": "sayka-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Atom Sayka Syntax Theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/AlexanderZaytsev/sayka-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
