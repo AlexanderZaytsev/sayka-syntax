@@ -222,9 +222,13 @@ atom-text-editor {
       color: @syntax-text-color;
     }
   }
+
   &.syntax--function  {
     color: @very-light-gray;
     &.syntax--actionpack.syntax--rails {
+      color: @blue;
+    }
+    &.syntax--activerecord.syntax--rails {
       color: @blue;
     }
     &.syntax--any-method {
